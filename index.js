@@ -33,7 +33,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var list = [];
-  var i = 0;
+  var i = number;
   
   do{
     i += 1;
