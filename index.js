@@ -36,6 +36,8 @@ function iLoveTheBeatles(number){
   var i = 0;
   
   do{
-    
-  }
+    i += 1;
+    list.push("I Love the Beatles!");
+  } while(i < 15);
+  return list;
 }
